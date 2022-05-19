@@ -1,4 +1,4 @@
-# Spring
+# Spring Framework 5
 This is a repository for learning and practicing with the Java Spring Framework
 
 See other branches for projects I have done

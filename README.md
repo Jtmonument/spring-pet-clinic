@@ -1,6 +1,8 @@
 # Spring 5 Web App
 This is a repository for learning and practicing with the Java Spring Framework
 
+Project located in the branch 'spring5webapp'
+
 ## Project Configurations
 - Maven Project
 - Java (version 17)

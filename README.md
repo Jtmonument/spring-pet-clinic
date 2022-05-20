@@ -1,7 +1,5 @@
-# Spring Framework 5
+# Spring 5 Web App
 This is a repository for learning and practicing with the Java Spring Framework
-
-See other branches for projects I have done
 
 ## Project Configurations
 - Maven Project
